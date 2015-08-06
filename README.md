@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# SSPlayer
-SSPlayer HTML5 teknolojisi kullanan bir video oynatıcıdır.
-=======
 # SSPLAYER
 SSPlayer HTML5 teknolojisini kullanan bir video oynatıcıdır. jQuery ile geliştirilmiş ve kullanıcıların çoğu ihtiyacını gidermeye yönelik bir projedir. SSPlayer hala geliştirilmeye devam etmektedir. Geliştirme işlemi yapılırken kullanıcıların önerileri büyük ölçüde önem arz etmektedir. Eğer sizinde SSPlayer'ın gelişimine yönelik bir öneriniz varsa [iletişim sayfasından](http://ssplayer.emreokay.net/iletisim.html) bana ulaşabilirsiniz.
 
@@ -15,4 +11,3 @@ Eğer SSPlayer'ın ücretli dağıtıldığını görürseniz lütfen [iletişim
 
 ## SSPlayer'ın Gelişimi İçin Bağış
 [![Donate](readme/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZPA6QMUJYQR9C)
->>>>>>> origin/master
