@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>SSPlayer</title>
+<link href="assets/css/ssplayer.min.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="assets/js/ssplayer.min.js"></script>
+<script type="text/javascript">
+	$(function(){
+		$("#ssvideo").ssplayer({iframe: true});
+		/*
+		 * Detaylı kullanım ve dokumantasyon için lütfen sitemizi ziyaret ediniz.
+		 * http://ssplayer.emreokay.net/
+		 */
+	})
+</script>
+</head>
+
+<body>
+<video id="ssvideo" src="http://depo.emreokay.net/ssplayer/source/2/360p.mp4"></video>
+</body>
+</html>
